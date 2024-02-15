@@ -9,7 +9,7 @@ Bob Ross was an American painter, art instructor, and TV host. He is best rememb
  ## **Early Life**
 
  Born in Dayton Beach, Florida, on October 29, 1942, Bob Ross developed a love for nature and animals. His 
- interest in art emerged as a young adult which he pursued alognside his military career in the U.S. air Force. 
+ interest in art emerged as a young adult which he pursued alongside his military career in the U.S. air Force. 
 
  ## **The Joy of Painting**
 
@@ -32,7 +32,7 @@ scenes in each 30-minute episode.
 ## **Legacy**
 
 Sadly, Bob Ross passed away on July 4, 1995, but his legacy continues. His approach to painting and his 
-outlook on life continue to inspire new generations or artists and non-artist alike. 
+outlook on life continue to inspire new generations or artists and non-artists alike. 
 
 ## **Learn More**
 
