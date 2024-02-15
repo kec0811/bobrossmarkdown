@@ -43,4 +43,4 @@ resources:
     * [Bob Ross' YouTube Channel](https://www.youtube.com/channel/UCxcnsr1R5Ge_fbTu5ajt8DQ)
     * [Bob Ross: The Happy Painter Documentary](https://watchdocumentaries.com/bob-ross-the-happy-painter/)
 
-![Chip and Breck](pictures/doodshalloween1.JPG)
+![Chip and Breck](doodshalloween1.JPG)
