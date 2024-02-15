@@ -4,7 +4,7 @@
 
 Bob Ross was an American painter, art instructor, and TV host. He is best remembered for his TV program,
  _The Joy of Painting_, where he introduced many to his quick and easy painting techniques for landscape painting. 
- Ross' soothing voice and positive messages about creativity and life have endeared him to millions worlwide. 
+ Ross' soothing voice and positive messages about creativity and life have endeared him to millions worldwide. 
 
  ## **Early Life**
 
