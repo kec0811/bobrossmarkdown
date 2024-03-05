@@ -46,3 +46,8 @@ resources:
 Author, Kimberly Chin's, doodles, Chip and Breck, cosplaying as Bob Ross and his happy little tree for Halloween. Insipiration for this project. 
 
 ![Chip and Breck](doodshalloween1.JPG)
+
+## **References**
+Hajeck, D. (2016). The real bob ross: Meet the meticulous artist behind those happy trees. _NPR_ Retrieved February 20, 2024, from 
+   [https://www.npr.org/2016/08/29/490923502/the-real-bob-ross-meet-the-meticulous-artist-behind-those-happy-trees](https://www.npr.org/2016/08/29/490923502/the-real-bob-ross-meet-the-meticulous-artist-behind-those-happy-trees)
+   
